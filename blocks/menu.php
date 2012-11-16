@@ -4,9 +4,9 @@
         <img src="images/splitter.gif" class="splitter" alt="" />
         <a href="theory.php">Теория</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
-        <a href="">Практика</a>
+        <a href="practic.php">Практика</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
-        <a href="">Видео</a>
+        <a href="video.php">Видео</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
         <a href="">Библиотека</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
