@@ -2,7 +2,7 @@
       <div id="menu_list">
         <a href="">Главная</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
-        <a href="">Теория</a>
+        <a href="theory.php">Теория</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
         <a href="">Практика</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
