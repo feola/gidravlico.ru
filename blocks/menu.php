@@ -1,6 +1,6 @@
     <div id="menu">
       <div id="menu_list">
-        <a href="">Главная</a>
+        <a href="index.php">Главная</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
         <a href="theory.php">Теория</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
@@ -10,9 +10,9 @@
         <img src="images/splitter.gif" class="splitter" alt="" />
         <a href="library.php">Библиотека</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
-		<a href="">Скачать</a>
+		<a href="download.php">Скачать</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
-        <a href="">Контакты</a>
+        <a href="contacts.php">Контакты</a>
       </div>
     </div>
 
