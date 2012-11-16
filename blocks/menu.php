@@ -8,7 +8,7 @@
         <img src="images/splitter.gif" class="splitter" alt="" />
         <a href="video.php">Видео</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
-        <a href="">Библиотека</a>
+        <a href="library.php">Библиотека</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
 		<a href="">Скачать</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
