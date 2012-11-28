@@ -5,14 +5,14 @@
   <head>
     <title>gidravlico.ru</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="../../style.css" rel="stylesheet" type="text/css" />
   </head>
 
   <body>
 
-<?php include ("blocks/menu.php");?>
+<?php include ("../../blocks/menu.php");?>
 
-<?php include ("blocks/header.php");?>
+<?php include ("../../blocks/header.php");?>
 
     <div id="content">
 
@@ -22,7 +22,7 @@
       <h2>Олеся Федотова</h2>
     </div>
 
-<?php include ("blocks/footer.php");?>
+<?php include ("../../blocks/footer.php");?>
 
   </body>
 
