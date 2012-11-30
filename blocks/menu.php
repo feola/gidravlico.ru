@@ -1,6 +1,6 @@
     <div id="menu">
       <div id="menu_list">
-        <a href="../index/index.php">Главная</a>
+        <a href="../../index.php">Главная</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
         <a href="../theory/theory.php">Теория</a>
         <img src="images/splitter.gif" class="splitter" alt="" />
