@@ -16,11 +16,12 @@
 
     <div id="content">
 
-      <h1>Возникновение и структура турбулентности</h1><br/>
+     <br/><center><h1>Возникновение и структура турбулентности</h1><br/><br/></center>
 
+<center>
 <p>
   <object width="480" height="360">
-    <param name="movie"
+    <param name="movie" align="middle"
            value="http://www.youtube.com/v/3BXpUXpylwI?version=3&amp;autohide=1">
 </param>
 <param name="allowFullScreen" value="true">
@@ -33,6 +34,13 @@
 </embed>
   </object>
 </p>
+
+<br/>
+
+<p>Формы движения жидкости и газа сложны и труднопрогнозируемы.<br/>
+Причина этой сложности во многом связана с турбулентностью.</p>
+
+</center>
 
     </div>
 
