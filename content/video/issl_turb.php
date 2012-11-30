@@ -21,7 +21,7 @@
 <center>
 <p>
   <object width="480" height="360">
-    <param name="movie" align="middle"
+    <param name="movie"
            value="http://www.youtube.com/v/framnSWd8CA?version=3&amp;autohide=1">
 </param>
 <param name="allowFullScreen" value="true">
