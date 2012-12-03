@@ -23,8 +23,8 @@
 <ul>
 <li><a href="vozn_i_str_turb.php"><h3>Возникновение и структура турбулентности</h3></a></li>
 <li><a href="issl_turb.php"><h3>Методы исследования характеристик турбулентности</h3></a></li>
-<li><a href="potery.php"><h3>Потери напора при движении жидкости</h3></a></li>
 <li><a href="bernulli.php"><h3>Уравнение Бернулли</h3></a></li>
+<li><a href="potery.php"><h3>Потери напора при движении жидкости</h3></a></li>
 <li><a href="istechenie.php"><h3>Истечение жидкости из отверстий и насадков</h3></a></li>
 <li><a href="istechenie_opyty.php"><h3>Демонстрация опытов с истечением жидкости</h3></a></li>
 <li><a href="strui.php"><h3>Струйные течения</h3></a></li>
